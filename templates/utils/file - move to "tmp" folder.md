@@ -1,0 +1,1 @@
+<% await tp.file.move("/tmp/" + tp.file.title) -%>

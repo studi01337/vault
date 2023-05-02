@@ -1,0 +1,3 @@
+- [[index|Studio]] || bx-home-heart
+- [[portfolio/index|Portfolio]] || bx-palette
+- [[blog/index|Blog]] || bx-notepad
